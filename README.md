@@ -1,2 +1,1 @@
-# project-x
-testing project
+# Booking API
